@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_ToonShader.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_MaterialInstance.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_ToonShade_Version-2.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPenci-Instance.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/Victorian_House/Maps/Demonstration_Map.umap",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_ToonShade_Version-Desaturate.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_ToonShade_Version-FilterWithColor.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/MV/Content/ToonShader/ShaderPencil_ToonShade_Version-FilterWithColor-Instance.uasset"
+			]
+		}
+	]
+}
