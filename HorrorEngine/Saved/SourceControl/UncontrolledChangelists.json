@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Github/ProtoTerrorGame-Imagination/HorrorEngine/Content/HorrorEngine/HE_InputSettings.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HorrorEngineFunctions.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/HorrorEngine/Content/HorrorEngine/Blueprints/Core/HE_SaveGame.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/HorrorEngine/Content/HorrorEngine/Blueprints/Widgets/Menu/Settings.uasset",
+				"E:/Github/ProtoTerrorGame-Imagination/HorrorEngine/Content/HorrorEngine/HorrorEngine.uasset"
+			]
+		}
+	]
+}
